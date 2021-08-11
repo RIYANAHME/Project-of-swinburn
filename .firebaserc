@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kamburn-fire": {
+      "hosting": {
+        "my-app": [
+          "kamburn-fire"
+        ]
+      }
+    }
+  }
+}
