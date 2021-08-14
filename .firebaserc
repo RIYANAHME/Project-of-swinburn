@@ -6,6 +6,20 @@
           "kamburn-fire"
         ]
       }
+    },
+    "new-project-19-minutes": {
+      "hosting": {
+        "my-app": [
+          "new-project-19-minutes"
+        ]
+      }
+    },
+    "swinburn-project": {
+      "hosting": {
+        "my-app": [
+          "swinburn-project"
+        ]
+      }
     }
   }
 }
